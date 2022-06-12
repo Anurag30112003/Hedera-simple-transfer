@@ -1,0 +1,16 @@
+{
+  "name": "hederablockchain",
+  "version": "1.0.0",
+  "description": "Hedera Blockchain app to transfer funds from one account to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+
+  "author": "Anurag",
+  "license": "ISC", 
+  "dependencies": {
+    "@hashgraph/sdk": "^2.13.1",
+    "dotenv": "^16.0.0"
+  }
+}
